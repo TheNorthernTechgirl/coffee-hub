@@ -1,2 +1,0 @@
-random.txt
-random 123.txt
