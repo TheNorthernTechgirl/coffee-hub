@@ -1,39 +1,39 @@
-
-body{
-    font-family:"Sofia" sans-serif;
+body {
+    font-family: "Sofia" sans-serif;
     font-size: 20px;
-    background-color:  rgba(9,9,9,0.8);
-    background-image:url ("C:\Users\amina musa\Desktop\husna's junk\beverage-1869598_1920.jpg");
-     height: 50%;
+    background-color: rgba(9, 9, 9, 0.8);
+    background-image: url ("C:\Users\amina musa\Desktop\husna's junk\beverage-1869598_1920.jpg");
+    height: 50%;
 }
 
-header{
+header {
     background-color: white;
     padding: 15px;
     text-align: center;
     box-shadow: 0 0 3px black;
 }
 
-h1{
+h1 {
     font-family: "Sofia", sans-serif;
-  font-size: 30px;
+    font-size: 30px;
 }
 
 header li {
     display: inline;
     padding-left: 45px;
-    align-items: center;
+    /* align-items: center; */
 }
 
 header li a {
-    color:black;
+    color: black;
     text-decoration: none;
     padding: 13px;
-    transition:  0.3s ease;
+    transition: 0.3s ease;
 }
-header li a:hover
- {
-    color:rgb(190, 119, 133);;
+
+header li a:hover {
+    color: rgb(190, 119, 133);
+    ;
 }
 
 header li img {
@@ -44,20 +44,21 @@ header li img {
 
 
 
-header ul #about a:hover{
-    background-color: rgb(190, 119, 133);;
+header ul a:hover {
+    background-color: rgba(179, 96, 112, 0.63);
+    ;
 }
- 
-.main{
- 
+
+.main {
+
     text-align: left;
     color: aliceblue;
     margin: auto;
-  width: 60%;
-  border: 3px round #d992e7;
-  padding: 150px;
+    width: 60%;
+    border: 3px round #d992e7;
+    padding: 150px;
 }
- 
+
 .button {
     background-color: white;
     border: none;
